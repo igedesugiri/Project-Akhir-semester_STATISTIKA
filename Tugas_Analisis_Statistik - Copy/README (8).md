@@ -2,14 +2,15 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `[NAMA LENGKAP MAHASISWA]`
-- **NIM:** `[NOMOR INDUK MAHASISWA]`
-- **Program Studi:** `[PROGRAM STUDI]`
+- **Nama:** `[I Gede Sugiri Merta Utama]`
+- **NIM:** `[2415091117]`
+- **Program Studi:** `[Sistem Informasi]`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
 ---
 
 ## 2. Deskripsi Proyek
+
 
 Dataset yang digunakan dalam analisis ini merupakan data perusahaan yang berisi informasi mengenai Biaya_Akuisisi_Pelanggan_Juta_IDR dan Nilai_Pelanggan_Juta_IDR. Variabel Biaya_Akuisisi_Pelanggan_Juta_IDR merepresentasikan besarnya biaya yang dikeluarkan perusahaan untuk memperoleh pelanggan dalam satuan juta rupiah, sedangkan Nilai_Pelanggan_Juta_IDR menggambarkan nilai ekonomi pelanggan yang dihasilkan dalam satuan juta rupiah.
 
